@@ -124,5 +124,6 @@ CC BY-NC-ND 4.0
 - Paper: https://www.scitepress.org/Papers/2026/146487/146487.pdf
 - Mip-NeRF 360 Dataset: https://jonbarron.info/mipnerf360/
 - Our Dataset "SIT_11F": https://github.com/Racer404/3DPN/releases/download/dataset/sit_11f.zip
+- Presentation https://docs.google.com/presentation/d/1eYcm8nn3gghf---OxNiqTbLDhcAQhHIFZcc14wv3BXY/edit?usp=sharing
 
 ---
